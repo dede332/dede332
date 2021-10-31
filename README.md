@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @dede332
+- 👀 I’m interested in Viruses
+- 🌱 I’m currently learning making viruses
+- im just using notepad to create virus
